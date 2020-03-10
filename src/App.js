@@ -31,7 +31,7 @@ function App() {
           }}/>
         
         <Route path="/" exact render = {()=>{
-          return <Home name = "Adil from Home"/>
+          return <Home name = "CI CD Practice Adil from Home"/>
         }}/>
         <Route path="/profile" component = {Profile}/>
         <Route path="/about" component = {About}/>

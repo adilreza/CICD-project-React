@@ -13,7 +13,7 @@ class navbar extends Component {
                         <ul className="nav navbar-nav">
                         <li className="active"><Link to="/">Home</Link></li>
                         <li><Link to='/about'>about</Link></li>
-                        <li><Link to='/profile'>profile</Link></li>
+                        <li><Link to='/profile'>profile page</Link></li>
                         <li><Link to='/contact'>contact</Link></li>
                         
                         </ul>
